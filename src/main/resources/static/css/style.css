@@ -1,0 +1,24 @@
+.full {
+	height:33%
+}
+
+H1 {
+	font-size:10em;
+	color:papayawhip;
+}
+
+INPUT {
+	font-size:5em;
+	
+}
+
+.labels {
+	font-size:3em;
+	color:papayawhip;
+}
+
+BODY {
+	background-image:url('https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif');
+background-position: center;
+background-size: cover;
+}
